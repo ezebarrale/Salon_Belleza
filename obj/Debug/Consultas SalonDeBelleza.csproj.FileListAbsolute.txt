@@ -1,0 +1,35 @@
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\bin\Debug\Consultas SalonDeBelleza.exe.config
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\bin\Debug\Consultas SalonDeBelleza.exe
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\bin\Debug\Consultas SalonDeBelleza.pdb
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\obj\Debug\Consultas SalonDeBelleza.csproj.AssemblyReference.cache
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\obj\Debug\Consultas_SalonDeBelleza.Properties.Resources.resources
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\obj\Debug\Consultas SalonDeBelleza.csproj.GenerateResource.cache
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\obj\Debug\Consultas SalonDeBelleza.csproj.CoreCompileInputs.cache
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\obj\Debug\Consultas SalonDeBelleza.exe
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\obj\Debug\Consultas SalonDeBelleza.pdb
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\obj\Debug\Consultas_SalonDeBelleza.Diagrama.resources
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\obj\Debug\Consultas_SalonDeBelleza.Consultas.resources
+C:\Users\EZE B\Downloads\Consultas SalonDeBelleza\Consultas SalonDeBelleza\bin\Debug\Consultas SalonDeBelleza.exe.config
+C:\Users\EZE B\Downloads\Consultas SalonDeBelleza\Consultas SalonDeBelleza\bin\Debug\Consultas SalonDeBelleza.exe
+C:\Users\EZE B\Downloads\Consultas SalonDeBelleza\Consultas SalonDeBelleza\bin\Debug\Consultas SalonDeBelleza.pdb
+C:\Users\EZE B\Downloads\Consultas SalonDeBelleza\Consultas SalonDeBelleza\obj\Debug\Consultas_SalonDeBelleza.Diagrama.resources
+C:\Users\EZE B\Downloads\Consultas SalonDeBelleza\Consultas SalonDeBelleza\obj\Debug\Consultas_SalonDeBelleza.Consultas.resources
+C:\Users\EZE B\Downloads\Consultas SalonDeBelleza\Consultas SalonDeBelleza\obj\Debug\Consultas_SalonDeBelleza.Properties.Resources.resources
+C:\Users\EZE B\Downloads\Consultas SalonDeBelleza\Consultas SalonDeBelleza\obj\Debug\Consultas SalonDeBelleza.csproj.GenerateResource.cache
+C:\Users\EZE B\Downloads\Consultas SalonDeBelleza\Consultas SalonDeBelleza\obj\Debug\Consultas SalonDeBelleza.csproj.CoreCompileInputs.cache
+C:\Users\EZE B\Downloads\Consultas SalonDeBelleza\Consultas SalonDeBelleza\obj\Debug\Consultas SalonDeBelleza.exe
+C:\Users\EZE B\Downloads\Consultas SalonDeBelleza\Consultas SalonDeBelleza\obj\Debug\Consultas SalonDeBelleza.pdb
+C:\Users\EZE B\Downloads\Consultas SalonDeBelleza\Consultas SalonDeBelleza\obj\Debug\Consultas SalonDeBelleza.csprojAssemblyReference.cache
+C:\Users\EZE B\Downloads\Consultas SalonDeBelleza\Consultas SalonDeBelleza\obj\Debug\SalonDeBellezaTest2.frmInsercion.resources
+C:\Users\Dicsys\Desktop\Salon_Belleza-main\bin\Debug\Consultas SalonDeBelleza.exe.config
+C:\Users\Dicsys\Desktop\Salon_Belleza-main\bin\Debug\Consultas SalonDeBelleza.exe
+C:\Users\Dicsys\Desktop\Salon_Belleza-main\bin\Debug\Consultas SalonDeBelleza.pdb
+C:\Users\Dicsys\Desktop\Salon_Belleza-main\obj\Debug\Consultas SalonDeBelleza.csproj.AssemblyReference.cache
+C:\Users\Dicsys\Desktop\Salon_Belleza-main\obj\Debug\Consultas_SalonDeBelleza.Diagrama.resources
+C:\Users\Dicsys\Desktop\Salon_Belleza-main\obj\Debug\Consultas_SalonDeBelleza.Consultas.resources
+C:\Users\Dicsys\Desktop\Salon_Belleza-main\obj\Debug\SalonDeBellezaTest2.frmInsercion.resources
+C:\Users\Dicsys\Desktop\Salon_Belleza-main\obj\Debug\Consultas_SalonDeBelleza.Properties.Resources.resources
+C:\Users\Dicsys\Desktop\Salon_Belleza-main\obj\Debug\Consultas SalonDeBelleza.csproj.GenerateResource.cache
+C:\Users\Dicsys\Desktop\Salon_Belleza-main\obj\Debug\Consultas SalonDeBelleza.csproj.CoreCompileInputs.cache
+C:\Users\Dicsys\Desktop\Salon_Belleza-main\obj\Debug\Consultas SalonDeBelleza.exe
+C:\Users\Dicsys\Desktop\Salon_Belleza-main\obj\Debug\Consultas SalonDeBelleza.pdb
