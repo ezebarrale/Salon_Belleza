@@ -1,0 +1,11 @@
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\bin\Debug\Consultas SalonDeBelleza.exe.config
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\bin\Debug\Consultas SalonDeBelleza.exe
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\bin\Debug\Consultas SalonDeBelleza.pdb
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\obj\Debug\Consultas SalonDeBelleza.csproj.AssemblyReference.cache
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\obj\Debug\Consultas_SalonDeBelleza.Properties.Resources.resources
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\obj\Debug\Consultas SalonDeBelleza.csproj.GenerateResource.cache
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\obj\Debug\Consultas SalonDeBelleza.csproj.CoreCompileInputs.cache
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\obj\Debug\Consultas SalonDeBelleza.exe
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\obj\Debug\Consultas SalonDeBelleza.pdb
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\obj\Debug\Consultas_SalonDeBelleza.Diagrama.resources
+C:\Users\danib\Documents\Facu\Pruebas VS\Consultas SalonDeBelleza\obj\Debug\Consultas_SalonDeBelleza.Consultas.resources
